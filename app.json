@@ -1,5 +1,5 @@
 {
-  "name": "BYTE-MD-LITE",
+  "name": "VENOCYBER",
   "description": "A lite version of BYTE-MD for TalkDrove Followers",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg",
@@ -9,7 +9,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": "%",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -43,7 +43,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "insert your heroku api-key",
+      "Gifted~7zY0gBxR#vk6q6NAY3SsRZOmUn3UIiEKr_8wqajS6Bv1LX22BjW8": "insert your heroku api-key",
       "value": "",
       "required": false
     },
