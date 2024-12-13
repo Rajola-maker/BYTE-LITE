@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "PREFIX": {
-      "description": "choose your prefix of bot",
+      "description": ".",
       "value": ".",
       "required": true
     },
@@ -28,17 +28,17 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "put A name for your bot",
+      "description": "VENOCYBER",
       "value": "BYTE-V.lite",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu ; eg: url1,url2,url3.....",
-      "value": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg",
+      "value": "Gifted~7zY0gBxR#vk6q6NAY3SsRZOmUn3UIiEKr_8wqajS6Bv1LX22BjW8",
       "required": false
     },
     "PUBLIC_MODE": {
-      "description": "type yes to put your bot on public mode or no to put it on private mod",
+      "description": " yes",
       "value": "yes",
       "required": false
     },
@@ -53,7 +53,7 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
+      "description": "[![Docker Image CI](https://github.com/Rajola-maker/BYTE-LITE/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Rajola-maker/BYTE-LITE/actions/workflows/docker-image.yml)",
       "value": "",
       "required": true
     },
